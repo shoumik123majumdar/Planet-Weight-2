@@ -175,9 +175,9 @@ int offset = 30;
     
     else if (l< plutoX && plutoX < r && plutoY > u && plutoY < d)
     {
-      planet = "Pluto";
+      planet = "Pluto I like";
      planetweight = earthsize * pluto;
-
+	
           
     }  
     
